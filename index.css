@@ -1,0 +1,92 @@
+
+html{
+    background-color: lightblue;    
+    }
+
+    h1 {
+        text-align:center;
+        background-color: rgb(191, 237, 176);
+        padding: 10px;
+        width: 800px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        
+    }
+
+    .Pantry {
+        border: 1px solid black;
+        background-color: aquamarine;
+        margin: 10px;
+        padding: 5px;
+        width: 800px;
+        text-align:center;
+        
+      }
+
+      .Canned {
+        display: inline-block;
+        border: 1px solid red;
+        margin: 15px;
+        padding: 20px;
+        vertical-align: middle;
+      }  
+
+      .Beverages {
+        display: inline-block;
+        border: 0px solid red;
+        margin: 15px;
+        padding: 20px;
+        vertical-align: middle;
+      } 
+
+      .Freezer {
+        background-color: aqua;
+        border: 1px solid black;
+        margin: 10px;
+        padding: 5px;
+        width: 800px;
+        text-align:center;
+        
+      }
+
+      .Veggies {
+        display: inline-block;
+        border: 1px solid red;
+        margin: 15px;
+        padding: 20px;
+        vertical-align: middle;
+      }  
+
+      .Snacks {
+        display: inline-block;
+        border: 0px solid red;
+        margin: 15px;
+        padding: 20px;
+        vertical-align: middle;
+      } 
+
+      .picture {
+        display:inline-block;
+        height: 172px;
+        width: 160px;
+        margin: 1%;
+        padding: 10px
+               
+      } 
+
+    h2{
+        color: green;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: rgb(227, 227, 177);
+        margin: 1%;
+        border:2px solid blueviolet;
+        padding: 10px
+        
+    } 
+
+    h3{
+        color: yellow;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: black;
+    } 
+
+
